@@ -1,0 +1,2 @@
+# 100DaysGenAI
+Learning GenAI 
